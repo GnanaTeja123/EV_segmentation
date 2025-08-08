@@ -1,0 +1,11 @@
+No fleet file found among candidates; will generate synthetic fleet dataset.
+No charging stations file found.
+No 2W sales file found.
+Generated synthetic fleet dataset (n=250).
+Fleet dataset columns: ['fleet_id', 'avg_km_day', 'fleet_size', 'downtime_tol_min', 'pct_depot_charging', 'zone', 'energy_cost_inr_per_km', 'capex_est_inr', 'monthly_tco_per_vehicle_inr']
+Mapping for avg_km_day: avg_km_day
+Mapping for fleet_size: fleet_size
+Mapping for downtime_tol_min: downtime_tol_min
+Mapping for pct_depot_charging: pct_depot_charging
+Mapping for zone: zone
+Mapping for fleet_id: fleet_id
